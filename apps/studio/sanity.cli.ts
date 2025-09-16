@@ -5,6 +5,9 @@ export default defineCliConfig({
     projectId: 'hst5fbfk',
     dataset: 'production',
   },
+  server: {
+    port: 3334,
+  },
   studioHost: 'day-one-smd',
   /**
    * Enable auto-updates for studios.
