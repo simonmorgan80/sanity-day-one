@@ -394,6 +394,13 @@
           "type": "string"
         },
         "optional": true
+      },
+      "firstPublished": {
+        "type": "objectAttribute",
+        "value": {
+          "type": "string"
+        },
+        "optional": true
       }
     }
   },
